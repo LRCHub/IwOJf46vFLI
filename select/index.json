@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "たぶん、80年",
+  "base_artist": "Dannie May",
+  "createdAt": "2026-02-12T16:58:39.311144Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "たぶん、80年",
+      "artist": "Dannie May",
+      "has_synced": false,
+      "path": "select/pl_01_たぶん、80年_Dannie_May.txt"
+    }
+  ]
+}
